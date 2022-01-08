@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @rickq14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Rick from earth demention Q14
+I lost my portal lately, so I stuck with this boring timeline,
 
-<!---
-rickq14/rickq14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
